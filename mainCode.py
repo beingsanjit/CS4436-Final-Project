@@ -1,11 +1,8 @@
-#!/usr/bin/env python
 """
 The Needleman-Wunsch Algorithm/ Sequence Alignment
 ==============================
 CS4436 Final Project
-Sanjit Sharma
-Peter Wu
-Stefan Pisic
+--- Sanjit Sharma --- Peter Wu --- Stefan Pisic ---
 """
 
 import numpy as np
